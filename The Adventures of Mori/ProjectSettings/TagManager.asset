@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - NPC
+  - Enemy
+  - Wall
+  - Exit
+  - MiniPlayer
+  - PosCamera
+  - Boss
   layers:
   - Default
   - TransparentFX
